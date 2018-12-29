@@ -1,0 +1,16 @@
+github.com/ddo/pick-json v0.0.0-20170207095303-c8760e09e0fe h1:/8DxbVJzB+Rx2wgJ1VGb3ziwGlI2VB3bWqtoldtalUU=
+github.com/ddo/pick-json v0.0.0-20170207095303-c8760e09e0fe/go.mod h1:vhvQl0uhd1j+zZPJhH0mZ1Moz14khMTXkCkNDXavk1Q=
+github.com/ddo/rq v0.0.0-20181020071436-e38aa30cefdd h1:rFnZ6qjuRHLZbxbAQaJbjSnTi3qBE6QLzUh2heSQgJM=
+github.com/ddo/rq v0.0.0-20181020071436-e38aa30cefdd/go.mod h1:XIayI7kdKklkc7yyWDBYMJLbK/AO4AchQUxdoSFcn+k=
+golang.org/x/exp v0.0.0-20180321215751-8460e604b9de/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
+golang.org/x/net v0.0.0-20181220203305-927f97764cc3 h1:eH6Eip3UpmR+yM/qI9Ijluzb1bNv/cAU/n+6l8tRSis=
+golang.org/x/net v0.0.0-20181220203305-927f97764cc3/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/tools v0.0.0-20180525024113-a5b4c53f6e8b/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
+gonum.org/v1/gonum v0.0.0-20181224193252-d9936c37d4be h1:BHLbQ5NAxfRrCCRT+LJVDyRWVbhSuI7wec1b3xKfxoo=
+gonum.org/v1/gonum v0.0.0-20181224193252-d9936c37d4be/go.mod h1:Y+Yx5eoAFn32cQvJDxZx5Dpnq+c3wtXuadVZAcxbbBo=
+gopkg.in/ddo/go-dlog.v2 v2.1.0 h1:SrIltB+SYmJLJZp/5vGKGLUpk2VCfLUM1V3jGs7RSh4=
+gopkg.in/ddo/go-dlog.v2 v2.1.0/go.mod h1:CENm6saSBTtC4/HLiyEnKte/MHgJ/LECoptlS6oHBVI=
+gopkg.in/ddo/go-fast.v0 v0.0.0-20180221183904-3a2f747dc782 h1:rYVEbnYP1TTJ68kSy2DTmrZUVnI5AfR/BoQasM+K1oE=
+gopkg.in/ddo/go-fast.v0 v0.0.0-20180221183904-3a2f747dc782/go.mod h1:5vpZWThMXgpczsMmkUR567zhsnSaEf+ZNwpBDOOi2Gc=
+gopkg.in/ddo/pick.v1 v1.2.2 h1:5Ue60YhDOzjwaQp3vwHwyuJ4ufj4DyKIxn95W4G7iZI=
+gopkg.in/ddo/pick.v1 v1.2.2/go.mod h1:AgGJKIMzwG3nzr1OX4nqa2+J27vPZXFgFnEWI3zh8Ow=
